@@ -7,3 +7,5 @@ dependencies:
   - pip:
     - numpy
     - mss
+    - pywin32
+    - pyautogui
